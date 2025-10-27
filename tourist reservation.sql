@@ -371,11 +371,3 @@ SELECT index_name, table_name, uniqueness
 FROM user_indexes;
 SELECT sequence_name FROM user_sequences;
 
-/* Group Member             ID 
- 1 Nejat Ebrahim(Leader)  02957/16
- 2 Bitanya Setegn         01308/16
- 3 Wubnesh Guade          02172/16
- 4 Genet Zewdu            01479/16
- 5 Abubeker Yimer         02093/16
- 6 Surafel Worku          01327/16
-*/
